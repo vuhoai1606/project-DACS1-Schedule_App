@@ -16,6 +16,11 @@
 
     <dependencies>
         <!-- Các dependency khác nếu có -->
+        <dependency>
+            <groupId>com.toedter</groupId>
+            <artifactId>jcalendar</artifactId>
+            <version>1.4</version>
+        </dependency>
 
         <dependency>
             <groupId>com.sun.mail</groupId>
@@ -24,5 +29,4 @@
         </dependency>
 
     </dependencies>
-
 </project>

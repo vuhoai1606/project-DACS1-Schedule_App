@@ -9,8 +9,8 @@ public class Main {
             @Override
             public void run(){
                 // instantiate a LoginFormGUI obj and make it visible
-//                new ScheduleAppGUI().setVisible(true);
-                new LoginFormGUI().setVisible(true);
+                new ScheduleAppGUI().setVisible(true);
+//                new LoginFormGUI().setVisible(true);
             }
         });
     }
